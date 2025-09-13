@@ -1,10 +1,6 @@
-<h1 align="center">Hi 👋, I'm Suuntory</h1>
-<h3 align="center">I'm a med student with a passion for programmation</h3>
-
 <p align="center">
-  <img  src="https://i.imgur.com/9kG1TP3.jpeg" alt="Bruce Willis (dressed as doctor) chat with Anthony Hopkins in the movie RED 2">
+  <img  src="https://i.imgur.com/9kG1TP3.jpeg">
   <br>
-  <i>Me with a patient (haters would say it's fake)</i>
 </p>
 
 <h3 align="left">Contact  me:</h3>
